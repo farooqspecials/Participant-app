@@ -23,3 +23,9 @@ yarn-debug.log*
 yarn-error.log*
 # Ignore Firebase configuration file for security
 /src/firebaseConfig.js
+# Ignore node_modules
+node_modules/
+
+# Ignore specific cache folders
+.cache/
+*.pack
