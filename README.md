@@ -35,5 +35,5 @@ To set up the Privilege Walk Participants App locally, follow these steps:
    Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/Privilege-Walk-Participants-App.git
+   git clone https://github.com/faroospecials/Privilege-Walk-Participants-App.git
    cd Privilege-Walk-Participants-App
